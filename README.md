@@ -1,9 +1,9 @@
 
 <p align="center"> 
-<img src="/static/assets/logo.png" class="center">
+TRUTH GUARD
 </p>
 
-# TRUTH GUARD  :bulb:
+# Truth Guard :bulb:
 TRUTH GUARD is an implementation of a Fake News Detection Flask Web Application using Natural Language Processing and Machine Learning with Python
 
 ## Background  :newspaper:
