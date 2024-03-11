@@ -47,8 +47,7 @@ This web application was built on the Python programming language.
 <img src="/static/assets/matrix.png" class="center">
 </p>
 
-Feel free to clone and improve on this end to end ML application!
-Reach me at my email for any further inquiries.
+
 
 
 
